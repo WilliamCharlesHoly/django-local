@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/1de85a83-e99b-4740-ac31-17bb00fd8124/microsoft.web/sites/subscriptions/1de85a83-e99b-4740-ac31-17bb00fd8124/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/DjangoAzureAppService",
+    "appService.deploySubpath": "."
+}
